@@ -1,0 +1,5 @@
+pandas
+pyarrow
+seaborn
+tensorflow
+git+https://github.com/tensorflow/docs
