@@ -1,7 +1,7 @@
 # layback_modeling
 A Keras model to estimate underwater camera location
 
-## Abstract
+## Rationale
 A LayBack model for georeferencing underwater imagery from a towed camera system
 
 While Multi-Beam Echo Sounder (MBES) data can provide a magnificent understanding of the seafloor, e.g., in terms of seabed geomorphology and substrate characteristics, it is only by combining MBES data with direct underwater observations that scientists can directly relate seabed features to habitat types, species diversity, and their distribution. Because this link is spatially based, the georeferencing accuracy of the ground truth data is paramount.
