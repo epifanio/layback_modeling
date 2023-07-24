@@ -3,3 +3,4 @@ pyarrow
 seaborn
 tensorflow
 git+https://github.com/tensorflow/docs
+pretty-jupyter
