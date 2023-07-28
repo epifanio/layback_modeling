@@ -1,4 +1,7 @@
 # layback_modeling
+
+[![DOI](https://zenodo.org/badge/624992193.svg)](https://zenodo.org/badge/latestdoi/624992193)
+
 A Keras model to estimate underwater camera location
 
 ## Rationale
